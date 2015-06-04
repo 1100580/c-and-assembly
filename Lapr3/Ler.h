@@ -1,0 +1,1 @@
+dados* ler(char *path);
